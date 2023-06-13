@@ -1,4 +1,4 @@
-baseurl = "https://icsstravel.netlify.app/"
+baseurl = "https://icss-sotong-guide.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
