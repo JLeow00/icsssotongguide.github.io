@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "uk"
+    parent: "3. Go"
 weight: 100
 toc: true
 ---
@@ -88,5 +88,4 @@ The train is the pricier option, at about £40 return, while the coach costs abo
 However, the coach takes twice as long as the train to get to Bath (3h for coach, 1h 30 min for train).  
 
 If you have the time, consider taking the train further down to Bristol, home of the famous Clifton Suspension Bridge.  
-
 
